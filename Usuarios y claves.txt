@@ -1,0 +1,13 @@
+admin: arman2314@gmail.com
+clave: armanroot
+
+clientes:
+
+nathygym38@gmail.com
+natygym
+
+valen15@gmail.com
+armanroot
+
+bianca10@gmail.com
+armanroot
